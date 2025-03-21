@@ -1,0 +1,53 @@
+.productsForm {
+    margin-top: 100px; /* Ajuste según sea necesario */
+    width: 800px; /* Ancho relativo */
+    max-width: 930px; /* Ancho máximo */
+    margin-left: 50px;
+    margin-right: auto;
+    border: 1px solid gray;
+    padding: 50px;
+    height: 550px;
+    border-radius: 20px;
+}
+
+.btnRegister, .btnPhoto {
+    display: block; /* Convertir en bloque para centrar horizontalmente */
+    margin: 0 auto; /* Centrar horizontalmente */
+    margin-top: 10px; /* Ajuste según sea necesario */
+    width: 200px;
+}
+
+.imageShow {
+    text-align: center; /* Centrar horizontalmente */
+    margin-top: 20px; /* Ajuste según sea necesario */
+    margin-left: 100px;
+}
+
+.labelProduct {
+    margin-top: 20px; /* Ajuste según sea necesario */
+    text-align: center; /* Centrar horizontalmente */
+}
+
+.tableBestSell {
+    width: calc(100% - 200px); /* Ancho relativo */
+    max-width: 450px; /* Ancho máximo */
+    margin: 0 auto; /* Centrar horizontalmente */
+    margin-top: -550px; /* Ajuste según sea necesario */
+    margin-left: 950px;
+    height: 550px;
+    border-radius: 20px;
+}
+
+.containerProducts {
+    width: 150px; /* Tamaño fijo */
+    height: 150px; /* Tamaño fijo */
+    padding: 50px; /* Ajuste según sea necesario */
+    margin: 0 auto; /* Centrar horizontalmente */
+}
+
+.nameProduct {
+    width: 110px; /* Ancho completo */
+    margin-top: -10px; /* Ajuste según sea necesario */
+    text-align: center; /* Centrar horizontalmente */
+    margin-left: -20px;
+}

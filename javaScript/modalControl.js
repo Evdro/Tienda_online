@@ -1,0 +1,12 @@
+$(document).ready(function(){
+    $('#openModalConfiguration').click(function(){
+        $('#modalConfiguration').modal('show');
+    })
+    $('#btnCpass').click(function(){
+        $('#modalConfiguration').modal('hide');
+        $('#modalChangePass').modal('show');
+    })
+    $('#btnCambiarDatos').click(function(){
+        $('#modalChangePass').modal('hide');
+    })
+})

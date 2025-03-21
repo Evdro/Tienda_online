@@ -1,0 +1,107 @@
+.tableProfile {
+  border-collapse: collapse;
+  margin-top: 140px;
+  margin-left: 280px;
+  border-radius: 8px;
+  width: 400px;
+  height: 200px;
+}
+
+.profileTitle {
+  font-size: 20px;
+  color: rgb(10, 10, 10);
+}
+
+.profileDescription {
+  font-style: italic;
+  color: gray;
+}
+.profileImage {
+  margin-top: -20px;
+  width: 70px;
+  height: 80px;
+}
+.tableProfile:hover {
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+.tableOrders {
+  border-collapse: collapse;
+  margin-top: 140px;
+  margin-left: 100px;
+  border-radius: 8px;
+  width: 400px;
+  height: 200px;
+}
+
+.ordersTitle {
+  font-size: 20px;
+  color: rgb(4, 4, 4);
+}
+
+.ordersDescription {
+  font-style: italic;
+  color: gray;
+}
+.ordersImage {
+    margin-top: -30px;
+    width: 100px;
+    height: 100px;
+    margin-left: -20px;
+}
+.tableOrders:hover {
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+.tableSell {
+  border-collapse: collapse;
+  margin-top: 50px;
+  margin-left: 280px;
+  border-radius: 8px;
+  width: 400px;
+  height: 200px;
+}
+
+.sellTitle {
+  margin-right: 60px;
+  font-size: 20px;
+  color: rgb(0, 0, 0);
+}
+
+.sellDescription {
+  font-style: italic;
+  color: gray;
+}
+.sellImage {
+    margin-top: -10px;
+    width: 110px;
+    height: 60px;
+    margin-right: -80px;
+}
+.tableSell:hover {
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+.tableConfig {
+  border-collapse: collapse;
+  margin-top: 50px;
+  margin-left: 100px;
+  border-radius: 8px;
+  width: 400px;
+  height: 200px;
+}
+
+.configTitle {
+  font-size: 20px;
+  color: rgb(0, 0, 0);
+}
+
+.configDescription {
+  font-style: italic;
+  color: gray;
+}
+.configImage {
+    margin-top: -10px;
+    width: 50px;
+    height: 50px;
+}
+.tableConfig:hover {
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}

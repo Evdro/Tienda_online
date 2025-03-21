@@ -1,0 +1,40 @@
+
+.imageProduct img{
+    width: 200px;
+    height: 190px;
+    margin-left: 10px;
+    margin-top: 8px;
+    border-radius: 5px;
+}
+.nameProduct{
+    margin-left: 80px;
+    text-decoration: none;
+}
+.priceProduct{
+    margin-left: 140px;
+    color: black;
+}
+.containerProducts {
+    border: 1px solid black;
+    width: 230px;
+    height: 300px;
+    padding: 6px;
+    margin-right: 40px; 
+    margin-bottom: 40px; 
+    border-radius: 10px;
+}
+table {
+    border-collapse: collapse; /* Colapsa los bordes de la tabla */
+    border: none; /* Elimina el borde exterior de la tabla */
+}
+
+td {
+    border: none; /* Elimina los bordes de las celdas */
+}
+.nameProduct:hover,
+.priceProduct:hover {
+    text-decoration: none; /* Elimina el subrayado al pasar el mouse */
+}
+
+
+

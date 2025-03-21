@@ -1,0 +1,57 @@
+.tableDataProfile{
+    width: 300px;
+    height: 620px;
+    margin-left: 50px;
+    margin-top: -420px;
+}
+.imageProfile{
+    width: 190px;
+    height: 200px;
+    margin-left: 60px;
+}
+.selectImage::-webkit-file-upload-button {
+    visibility: hidden;
+}
+.levels li{
+    margin-left: 10px;
+}
+.selectImage::before {
+    content: 'Seleccionar archivo'; 
+    display: inline-block;
+    background: #f1f1f1;
+    border: 1px solid #ccc;
+    padding: 6px 12px;
+    cursor: pointer;
+    margin-left: 70px;
+    border-radius: 5px;
+}
+.levelsAcount {
+    margin-left: 70px;
+}
+.benefits{
+    border-left: 110px solid transparent;
+}
+.tablesellData {
+    width: 500px;
+    height: 250px;
+    margin-top: -570px;
+    margin-left: 100px;
+}
+
+.tablebuyData {
+    width: 500px;
+    height: 250px;
+    margin-top: -249px;
+    margin-left: 100px; 
+}
+.tableproducts{
+    margin-left: 100px;
+    width: 300px;
+    height: 1180px;
+    margin-top: 60px;
+    border: 1px solid black;
+}
+.nombreProducto{
+    color: black;
+}
+

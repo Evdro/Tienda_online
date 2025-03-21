@@ -1,0 +1,19 @@
+.componentCar{
+    margin-left: 400px;
+    margin-top: 200px;
+}
+.containerInfo{
+    margin-left: 10px;
+    border: 1px solid black;
+    width: 700px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);
+}
+.imgCar{
+    padding: 10px;
+    margin-top: 10px;
+}
+.btnContainer{
+    margin-left: 800px;
+    margin-top: -100px;
+}

@@ -1,0 +1,121 @@
+.card{
+    width: 700px;
+    height: 450px;
+    margin-left: 50px;
+}
+.cardPay{
+    margin-left: 75%;
+    margin-top: -474px;
+}
+.imageProduct{
+    width: 400px;
+    height: 400px;
+    padding: 20px;
+    margin-top: 22px;
+}
+.containerText{
+    width: 250px;
+    height: 200px;
+    margin-left: 170px;
+    margin-top: 30px;
+}
+.titleProduct{
+    margin-left: 180px;
+    margin-top: 30px;
+}
+.imagesMethodPay img {
+    width: 70px; 
+    height: auto;
+    padding: 5px;
+    margin-left: 18px;
+    margin-top: 5px; 
+    border: 1px;
+}
+.priceProduct{
+    margin-left: 250px;
+    margin-top: 15px;
+}
+.card{
+    width: 700px;
+    height: 450px;
+    margin-left: 50px;
+}
+.cardPay{
+    margin-left: 75%;
+    margin-top: -474px;
+}
+.imageProduct{
+    width: 400px;
+    height: 400px;
+    padding: 20px;
+    margin-top: 22px;
+}
+.containerText{
+    width: 250px;
+    height: 200px;
+    margin-left: 170px;
+    margin-top: 30px;
+}
+.titleProduct{
+    margin-left: 200px;
+    margin-top: 30px;
+}
+.imagesMethodPay img {
+    width: 70px; 
+    height: auto;
+    padding: 5px;
+    margin-left: 18px;
+    margin-top: 5px; 
+    border: 1px;
+}
+.priceProduct{
+    margin-left: 250px;
+    margin-top: 15px;
+}
+.buttonsProduct {
+    margin-top: 40px;
+    margin-left: 30px;
+}
+.buttonsProduct button{
+    width: 200px;
+}
+#carouselSimilar.carousel {
+    margin-top: 50px;
+    margin-left: 50px; 
+}
+
+#carouselSameSeller.carousel {
+    margin-top: 50px;
+    margin-left: 50px; 
+}
+.titleSimilar{
+    margin-left: 450px;
+    margin-top: 30px;
+}
+.titleSame{
+    margin-top: 30px;
+    margin-left: 500px;
+}
+.writeComentary{
+    height: 320px;
+    margin-top: 120px;
+    margin-left: 200px;
+}
+.labelPublic{
+    margin-left: 290px;   
+}
+.showComentarys{
+    height: 200px;
+    margin-top: 10px;
+    margin-left: 200px;
+    border: solid black 1px;
+    border-radius: 10px;
+}
+.comentaryField{
+    width: 600px;
+    margin-left: 40px;
+    margin-top: 30px;
+}
+.cardComentary{
+    border: none;
+}
